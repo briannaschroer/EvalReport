@@ -1,0 +1,182 @@
+/*text*/
+
+h1 {
+  color: #1C2833;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  font-size: 30px;
+}
+
+h2 {
+font-family: 'Open Sans', sans-serif;
+font-weight: bold;
+font-size: 22px;
+}
+
+h3 {
+font-family: 'Open Sans', sans-serif;
+font-style: italic;
+font-weight: bold;
+font-size: 20px;
+}
+
+h4 {
+font-family: 'Open Sans', sans-serif;
+font-weight: bold;
+font-size: 16px;
+}
+
+li {
+font-family: 'Open Sans', sans-serif;
+font-weight: 400;
+padding-left: 10px;
+font-size: 14px;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.blockquote {
+  font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+  color: #909497;
+  list-style-type: none;
+}
+
+element.style {
+    text-align: center;
+    color: #FFF;
+    line-height: 30px;
+    width: 200px;
+    margin: 10px;
+}
+
+
+
+
+blockquote {
+  font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+  color: #909497;
+  list-style-type: none;
+}
+
+
+#text {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#welcome {
+  width: 90%;
+  text-align: left;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-right: 20px;
+}
+
+#t01 {
+    width: 50%;
+    background-color: #F0F0F0;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+tr:nth-child(even) {
+    background-color: #eee;
+}
+
+tr:nth-child(odd) {
+    background-color: #fff;
+}
+
+#t01 th {
+    color: white;
+    background-color: black;
+}
+
+
+footer p {
+font-family: 'Open Sans', sans-serif;
+font-style: italic;
+font-size: 9px;
+
+}
+
+body {
+  background-color: #F8F9F9
+}
+
+#nav {
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-size: 15px;
+  padding-bottom: 30px;
+  margin-top: 10px;
+  color: #BDC3C7;
+  width: 100%;
+  text-align: center;
+}
+
+
+#nav a {
+  padding: 10px;
+  color: #BDC3C7;
+}
+
+#nav a:link {
+  color: #BDC3C7;
+  text-decoration: none;
+  }
+
+#about-text {
+  text-align: left;
+}
+
+
+footer {
+  text-align: left;
+  padding-top: 100px;
+}
+
+/*front page buttons*/
+
+
+
+
+
+
+/*gallary page*/
+div.img {
+    margin: 5px;
+    float: left;
+    width: 180px;
+}
+
+div.img:hover {
+    border: 1px solid #777;
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+.missourian {
+  padding-top: 40px;
+  clear: both;
+}
+
+.row2 {
+  clear: both;
+}
